@@ -25,7 +25,7 @@ jobs:
         run: ./plugin/gradlew -p plugin clean build
 
       - name: Publier le JAR comme artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: plugin-jar
           path: plugin/build/libs/*.jar
@@ -71,7 +71,7 @@ jobs:
           zip -r ../rpgplus-resource-pack.zip .
 
       - name: Publier les ZIPs comme artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: datapack-and-resources
           path: |
