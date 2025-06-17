@@ -1,0 +1,22 @@
+# Java
+*.jar
+*.war
+*.log
+
+# IntelliJ / VSCode
+.idea/
+*.iml
+.vscode/
+
+# Build
+build/
+target/
+
+# Minecraft
+world/
+logs/
+plugins/*.jar
+
+# OS
+.DS_Store
+Thumbs.db
