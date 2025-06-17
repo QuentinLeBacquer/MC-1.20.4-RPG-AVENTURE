@@ -22,13 +22,13 @@ jobs:
           java-version: '21'
 
       - name: Construire avec Gradle
-        run: ./plugin/gradlew -p plugin clean build
+        run: ./RPGav/gradlew -p plugin clean build
 
       - name: Publier le JAR comme artifact
         uses: actions/upload-artifact@v4
         with:
           name: plugin-jar
-          path: plugin/build/libs/*.jar
+          path: RPGav/build/libs/*.jar
 
   lint-datapack:
     name: Lint Datapack JSON
