@@ -1,0 +1,48 @@
+[12:50:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:50:11] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[12:50:11] [ServerMain/INFO]: No existing world data, creating new world
+[12:50:11] [ServerMain/INFO]: Loaded 1174 recipes
+[12:50:12] [ServerMain/INFO]: Loaded 1271 advancements
+[12:50:12] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:50:12] [Server thread/INFO]: Loading properties
+[12:50:12] [Server thread/INFO]: This server is running Paper version git-Paper-499 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 9de3f75 on ver/1.20.4)
+[12:50:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:50:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:50:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[12:50:13] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[12:50:13] [Server thread/INFO]: Default game type: SURVIVAL
+[12:50:13] [Server thread/INFO]: Generating keypair
+[12:50:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:50:13] [Server thread/INFO]: Using default channel type
+[12:50:13] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[12:50:13] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:50:14] [Server thread/INFO]: [RPG] Loading server plugin RPG v1.0.0
+[12:50:14] [Server thread/INFO]: Preparing level "world"
+[12:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:50:17] [Server thread/INFO]: Time elapsed: 79 ms
+[12:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:50:17] [Server thread/INFO]: Time elapsed: 39 ms
+[12:50:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:50:17] [Server thread/INFO]: Time elapsed: 56 ms
+[12:50:17] [Server thread/INFO]: [RPG] Enabling RPG v1.0.0
+[12:50:17] [Server thread/INFO]: [RPG] RpgPlusPlugin enabled!
+[12:50:17] [Server thread/INFO]: Running delayed init tasks
+[12:50:17] [Server thread/INFO]: Done (5.191s)! For help, type "help"
+[12:50:17] [Server thread/INFO]: *************************************************************************************
+[12:50:17] [Server thread/INFO]: This is the first time you're starting this server.
+[12:50:17] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[12:50:17] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[12:50:17] [Server thread/INFO]: *************************************************************************************
+[12:50:17] [Server thread/INFO]: Timings Reset
+[12:53:48] [User Authenticator #0/INFO]: UUID of player VEZRROledozo is 9bac7f67-7c30-4dea-b9f1-6bd295541231
+[12:53:48] [Server thread/INFO]: VEZRROledozo joined the game
+[12:53:48] [Server thread/INFO]: VEZRROledozo[/127.0.0.1:57349] logged in with entity id 364 at ([world]-7.5, 156.0, 2.5)
+[12:53:51] [Server thread/INFO]: VEZRROledozo issued server command: /ping
+[12:53:57] [Server thread/INFO]: VEZRROledozo issued server command: /help
+[12:54:04] [Server thread/INFO]: VEZRROledozo issued server command: /plugins
+[12:54:09] [Server thread/INFO]: VEZRROledozo issued server command: /help rpg
+[12:54:19] [Server thread/INFO]: Made VEZRROledozo a server operator
+[12:54:24] [Server thread/INFO]: VEZRROledozo issued server command: /gamemode creative
+[12:54:24] [Server thread/INFO]: [VEZRROledozo: Set own game mode to Creative Mode]
